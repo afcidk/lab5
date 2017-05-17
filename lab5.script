@@ -1,0 +1,13 @@
+Script started on Thu 18 May 2017 01:18:27 AM CST
+]777;notify;Command completed;exit]0;afcidk@localhost:~/lab5]7;file://localhost.localdomain/home/afcidk/lab5[afcidk@localhost lab5]$ make
+g++ -c hugeint.cpp hugeint.h
+g++ -c main.cpp
+g++ -o main hugeint.o main.o
+]777;notify;Command completed;make]0;afcidk@localhost:~/lab5]7;file://localhost.localdomain/home/afcidk/lab5[afcidk@localhost lab5]$ ./main
+123456789
+123456789+28825252=152282041
+123456789 314159265358979323846
+314159265358855867057
+]777;notify;Command completed;./main]0;afcidk@localhost:~/lab5]7;file://localhost.localdomain/home/afcidk/lab5[afcidk@localhost lab5]$ exit
+
+Script done on Thu 18 May 2017 01:18:41 AM CST
